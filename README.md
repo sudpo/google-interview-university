@@ -168,11 +168,11 @@ I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://
 
 ## About Google
 - [x] How Search Works:
-    - [x] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
-    - [x] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
-    - [x] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
-    - [x] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
-    - [x] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
+    - [ ] [The Evolution of Search (video)](https://www.youtube.com/watch?v=mTBShTwCnD4)
+    - [ ] [How Search Works - the story](https://www.google.com/insidesearch/howsearchworks/thestory/)
+    - [ ] [How Search Works](https://www.google.com/insidesearch/howsearchworks/)
+    - [ ] [How Search Works - Matt Cutts (video)](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+    - [ ] [How Google makes improvements to its search algorithm (video)](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
 - [x] Series:
     - [x] [How Google Search Dealt With Mobile](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
     - [x] [Google's Secret Study To Find Out Our Needs](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
@@ -199,7 +199,7 @@ from public sources and replacing the online course videos over time. I like usi
     - [x] [Get That Job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
         - all the things he mentions that you need to know are listed below
     - [x] _(very dated)_ [How To Get A Job At Google, Interview Questions, Hiring Process](http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html)
-    - [x] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+    - [ ] [Phone Screen Questions](http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 - [x] Additional (not suggested by Google but I added):
     - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
@@ -231,7 +231,7 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
 - [x] **How computers process a program:**
-    - [x] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
+    - [ ] [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA)
     - [x] [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE)
 
 - [x] **How floating point numbers are stored:**
